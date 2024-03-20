@@ -13,18 +13,18 @@ import * as $$$$$$$4 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
   "sections": {
-    "deco-sites/start/sections/Footer.tsx": $$$$$$$0,
-    "deco-sites/start/sections/Hero.tsx": $$$$$$$1,
-    "deco-sites/start/sections/myHero.tsx": $$$$$$$5,
-    "deco-sites/start/sections/ParagraphList.tsx": $$$$$$$2,
-    "deco-sites/start/sections/SimpleTextList.tsx": $$$$$$$3,
-    "deco-sites/start/sections/Theme/Theme.tsx": $$$$$$$4,
+    "deco-sites/tailwonder/sections/Footer.tsx": $$$$$$$0,
+    "deco-sites/tailwonder/sections/Hero.tsx": $$$$$$$1,
+    "deco-sites/tailwonder/sections/myHero.tsx": $$$$$$$5,
+    "deco-sites/tailwonder/sections/ParagraphList.tsx": $$$$$$$2,
+    "deco-sites/tailwonder/sections/SimpleTextList.tsx": $$$$$$$3,
+    "deco-sites/tailwonder/sections/Theme/Theme.tsx": $$$$$$$4,
   },
   "apps": {
-    "deco-sites/start/apps/decohub.ts": $$$$$$$$$$$$0,
-    "deco-sites/start/apps/site.ts": $$$$$$$$$$$$1,
+    "deco-sites/tailwonder/apps/decohub.ts": $$$$$$$$$$$$0,
+    "deco-sites/tailwonder/apps/site.ts": $$$$$$$$$$$$1,
   },
-  "name": "deco-sites/start",
+  "name": "deco-sites/tailwonder",
   "baseUrl": import.meta.url,
 };
 
